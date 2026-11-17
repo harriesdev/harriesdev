@@ -33,7 +33,7 @@
 - [Symfonium - Audio Player for Navidrome](https://www.symfonium.app)
 - [Audiobookshelf | eBook and AudioBook Player](https://github.com/advplyr/audiobookshelf-app)
 
-## Fullsnack Dev
+## Full Snack Developer
 
 - [Herdr](https://herdr.dev/)
 - [Claude](https://claude.com/)
