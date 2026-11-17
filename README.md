@@ -1,3 +1,9 @@
+## Libraries
+
+- [AI](https://github.com/stars/harriesdev/lists/ai)
+- [Business](https://github.com/stars/harriesdev/lists/business)
+- [Security](https://github.com/stars/harriesdev/lists/security)
+
 ## Homelab
 
 - [UniFi | Networking, Security, Cameras, Storage](https://www.ui.com)
