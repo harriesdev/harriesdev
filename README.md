@@ -31,3 +31,11 @@
 - [Papra | Document Management](https://papra.app/en/)
 - [Symfonium - Audio Player for Navidrome](https://www.symfonium.app)
 - [Audiobookshelf | eBook and AudioBook Player](https://github.com/advplyr/audiobookshelf-app)
+
+## Fullsnack Dev
+
+- [Herdr](https://herdr.dev/)
+- [Claude](https://claude.com/)
+- [Hermes Agent](https://github.com/nousresearch/hermes-agent)
+- [Abliteration.ai](https://abliteration.ai/)
+- [Zed](https://zed.dev/)
