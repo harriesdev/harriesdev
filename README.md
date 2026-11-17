@@ -1,16 +1,27 @@
-## Hi there 👋
+## Homelab
 
-<!--
-**harriesdev/harriesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [UniFi | Networking, Security, Cameras, Storage](https://www.ui.com)
+- [Home Assistant | Self Hosted Home Automation](https://www.home-assistant.io)
+- [Navidrome | Self Hosted Music Server](https://www.navidrome.org)
+- [Paperless-ngx | Self Hosted Scanned Document Server](https://docs.paperless-ngx.com)
+- [Audiobookshelf | Self Hosted eBook & Audiobook Server](https://audiobookshelf.org)
+- [Immich | Self Hosted Photo Sync Server](https://immich.app)
 
-Here are some ideas to get you started:
+## PC - Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [DaVinci Resolve | Free Video Editing Software](https://www.blackmagicdesign.com/products/davinciresolve)
+- [Audacity | Free Audio Editor](https://www.audacityteam.org)
+- [Affinity Studio | Free Vector, Pixel & Layout Graphic Design](https://www.affinity.studio)
+- [PDFgear - Free PDF Editor](https://www.pdfgear.com)
+- [Mullvad VPN - Privacy is for the people](https://mullvad.net)
+
+## Phone - Android
+
+- [GrapheneOS | Private and Secure Mobile OS](https://grapheneos.org)
+- [Proton | Private & Secure Email, Calendar, Storage, Password Manager](https://proton.me/)
+- [Signal | Private and Secure Messaging](https://signal.org)
+- [Aegis Authenticator - Secure 2FA Code Storage](https://getaegis.app)
+- [Immich | Photo App](https://immich.app)
+- [Paperless Mobile | Document Scanner](https://github.com/astubenbord/paperless-mobile)
+- [Symfonium - Audio Player for Navidrome](https://www.symfonium.app)
+- [Audiobookshelf | eBook and AudioBook Player](https://github.com/advplyr/audiobookshelf-app)
