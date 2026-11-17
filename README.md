@@ -3,7 +3,7 @@
 - [UniFi | Networking, Security, Cameras, Storage](https://www.ui.com)
 - [Home Assistant | Self Hosted Home Automation](https://www.home-assistant.io)
 - [Navidrome | Self Hosted Music Server](https://www.navidrome.org)
-- [Paperless-ngx | Self Hosted Scanned Document Server](https://docs.paperless-ngx.com)
+- [Papra | Self Hosted Document Archiving Server](https://papra.app/en/)
 - [Audiobookshelf | Self Hosted eBook & Audiobook Server](https://audiobookshelf.org)
 - [Immich | Self Hosted Photo Sync Server](https://immich.app)
 
@@ -22,6 +22,6 @@
 - [Signal | Private and Secure Messaging](https://signal.org)
 - [Aegis Authenticator - Secure 2FA Code Storage](https://getaegis.app)
 - [Immich | Photo App](https://immich.app)
-- [Paperless Mobile | Document Scanner](https://github.com/astubenbord/paperless-mobile)
+- [Papra | Document Management](https://papra.app/en/)
 - [Symfonium - Audio Player for Navidrome](https://www.symfonium.app)
 - [Audiobookshelf | eBook and AudioBook Player](https://github.com/advplyr/audiobookshelf-app)
