@@ -12,6 +12,7 @@
 - [Papra | Self Hosted Document Archiving Server](https://papra.app/en/)
 - [Audiobookshelf | Self Hosted eBook & Audiobook Server](https://audiobookshelf.org)
 - [Immich | Self Hosted Photo Sync Server](https://immich.app)
+- [Jellyfin | Self Hosted Media Server](https://jellyfin.org/)
 
 ## PC - Windows
 
@@ -32,7 +33,7 @@
 - [Symfonium - Audio Player for Navidrome](https://www.symfonium.app)
 - [Audiobookshelf | eBook and AudioBook Player](https://github.com/advplyr/audiobookshelf-app)
 
-## Full Snack Developer
+## Fullsnack Dev
 
 - [Herdr](https://herdr.dev/)
 - [Claude](https://claude.com/)
