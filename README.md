@@ -18,7 +18,7 @@
 
 - [DaVinci Resolve | Free Video Editing Software](https://www.blackmagicdesign.com/products/davinciresolve)
 - [Audacity | Free Audio Editor](https://www.audacityteam.org)
-- [Affinity Studio | Free Vector, Pixel & Layout Graphic Design](https://www.affinity.studio)
+- [ArtCraft | Capable Open Source Tools](https://getartcraft.com/)
 - [PDFgear - Free PDF Editor](https://www.pdfgear.com)
 - [Mullvad VPN - Privacy is for the people](https://mullvad.net)
 
